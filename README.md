@@ -25,7 +25,7 @@ To visualize and analyze sales, profit, and product performance across multiple 
 - Conditional Formatting & Tooltips
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshots]
 
 ## ✅ Outcome
 This dashboard demonstrates my ability to clean data, model KPIs, and build dynamic business dashboards to enable data-driven decisions.
